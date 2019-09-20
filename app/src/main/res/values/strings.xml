@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Your Contacts App—Address Book</string>
+    <string name="txtTitle">Contacts</string>
+    <string name="txtContact1">Johnson Marie</string>
+    <string name="txtContact2">Jackson Aaron</string>
+    <string name="btnContactInfo1">Info</string>
+    <string name="btnContactInfo2">Info</string>
+    <string name="txtAddress1">133 Poplar Lane Colorado Springs, CO 80911</string>
+    <string name="txtAddress2">231 Edgefield Ave. Hattiesburg, MS 39401</string>
+    <string name="txtPhoneNumber1">(839) 305-0738</string>
+    <string name="txtPhoneNumber2">(865) 362-0727</string>
+    <string name="Description1">Johnson\'s Picture</string>
+    <string name="Description2">Jackson\'s Picture</string>
+</resources>
